@@ -4,7 +4,7 @@ https://hardhat.org/hardhat-runner/docs/getting-started
 
 https://hardhat.org/tutorial/setting-up-the-environment
 
-install git
+install git\n
 install node.js
 
 cd "smart contract dir"
